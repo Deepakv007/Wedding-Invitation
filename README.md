@@ -1,2 +1,3 @@
-# Wedding-Invitation
+wedding-invitation/
+├── index.html
 Haree Jayashree
